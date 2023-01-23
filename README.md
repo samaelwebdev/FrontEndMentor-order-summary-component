@@ -28,7 +28,7 @@ The footer contains the challenge creator and the solution creator.
 
 The layout was done using CSS Flexbox and CSS custome properties.
 
-Contains over states for interactive elements.
+Contains hover and active states for interactive elements.
 
 ### The challenge
 
