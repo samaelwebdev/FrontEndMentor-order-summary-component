@@ -84,7 +84,6 @@ I plan on completing more projects using complex html css and javascript, my goa
 
 ## Author
 
-- Website - [samaelWebDev](https://www.your-site.com)
 - Frontend Mentor - [samaelwebdev](https://www.frontendmentor.io/profile/samaelwebdev)
 
 
