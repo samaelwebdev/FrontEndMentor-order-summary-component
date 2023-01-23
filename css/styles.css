@@ -145,7 +145,8 @@ body {
 	-ms-transform: scale(1.06);
 	-o-transform: scale(1.06);
 	transform: scale(1.06);
-}
+	cursor: pointer;
+}      
 
 .makepayment:active{
   background-color: green;
@@ -164,6 +165,7 @@ body {
 	-ms-transform: scale(1.06);
 	-o-transform: scale(1.06);
 	transform: scale(1.06);
+	cursor: pointer;
 }
 
 .cancelorder:active{
